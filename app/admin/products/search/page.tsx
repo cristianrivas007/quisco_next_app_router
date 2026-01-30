@@ -1,3 +1,6 @@
+export const dynamic = 'force-dynamic'
+
+
 import ProductSearchForm from "@/components/products/ProductSearchForm";
 import ProductTable from "@/components/products/ProductsTable";
 import Heading from "@/components/ui/Heading";
